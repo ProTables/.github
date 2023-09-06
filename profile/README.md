@@ -51,8 +51,8 @@ Ten projekt jest dostępny na licencji MIT. Szczegółowe informacje znajdziesz 
 
 ## Autorzy
 
-- John Kowalski - [GitHub](https://github.com/johnkowalski)
-- Anna Nowak - [GitHub](https://github.com/annanowak)
+- Wiktor Józwiak - [GitHub](https://github.com/ReferTV)
+- Bartosz Dudziński - [GitHub](https://github.com/bartosz-dude)
 
 ## Podziękowania
 
